@@ -59,7 +59,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jko5zs8apibkwfhlwdtq.webp" width="24" height="24" alt="Chainguard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainguard](https://jobo.world/company/Chainguard)
 
-* **[Enterprise Sales Engineer - SoCal](https://job-boards.greenhouse.io/chainguard/jobs/4571919006)** — _n/a_ _(posted 2025-05-30)_
 * **[Commercial Sales Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4568010006)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
@@ -222,10 +221,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Sr. Infrastructure Engineer](https://job-boards.greenhouse.io/platformscience/jobs/6577992003)** — _n/a_ _(posted 2025-05-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
-
-* **[Senior/Staff Infrastructure Engineer](https://jobs.ashbyhq.com/privy/c97993ab-42cc-49d1-bef2-f2905c7437ce)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qp1uamkdt7aykfiliomk.webp" width="24" height="24" alt="Qualified.com logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qualified.com](https://jobo.world/company/Qualified-Dotcom)
 
 * **[Staff Software Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/aca7afc8-ae96-4bf6-bf6c-13024c77cb12)** — ¤230,000 – ¤260,000 USD _(posted 2025-04-18)_
@@ -290,6 +285,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[AWS Cloud Security Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4557769005)** — ¤110,000 – ¤145,000 USD _(posted 2025-04-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lxkde3a4zbr9f7cpq9cn.webp" width="24" height="24" alt="Tala logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tala](https://jobo.world/company/Tala)
+
+* **[Staff Cloud Infrastructure Engineer](https://jobs.lever.co/tala/8f5232fb-9d0c-4626-848d-f8dc91a82a66)** — _n/a_ _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Engineer II, Infrastructure](https://jobs.lever.co/trueml/55946499-9460-4d70-9b21-94c16b0dac33)** — _n/a_ _(posted 2025-04-16)_
@@ -308,7 +307,8 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
+* **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-06-13_
+_Updated automatically — 2025-06-14_
