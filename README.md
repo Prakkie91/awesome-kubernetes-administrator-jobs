@@ -43,6 +43,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Senior/Lead Infrastructure Security Engineer](https://jobs.ashbyhq.com/biorender/dfcabba5-dd9b-43ce-85f9-23e9f634fc8f)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sj6zld7jju9vjg7iybcy.webp" width="24" height="24" alt="BrightAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BrightAI](https://jobo.world/company/BrightAI)
+
+* **[Senior Cloud Engineer](https://job-boards.greenhouse.io/brightai1/jobs/4037342004)** — _n/a_ _(posted 2025-06-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Senior Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/calendly/jobs/8018727002)** — _n/a_ _(posted 2025-05-31)_
@@ -96,7 +100,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Cloud Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Cloud-Sales-Engineer--Remote-_R23398)** — _n/a_ _(posted 2025-06-04)_
-* **[Engineering Manager - Exposure Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager---Exposure-Management--Remote-_R23245)** — _n/a_ _(posted 2025-05-14)_
 * **[Sr. Product Manager II - Linux/Containers/Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Manager-II---Linux-Containers-Kubernetes--Remote-_R22818)** — _n/a_ _(posted 2025-04-04)_
 * **[Sr. DevOps Engineer - LogScale (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-DevOps-Engineer---LogScale--Remote-_R21228)** — _n/a_ _(posted 2025-02-26)_
 
@@ -123,10 +126,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
-
-* **[Senior Platform Engineer, Infrastructure & Security](https://jobs.ashbyhq.com/fieldguide/4f67c6d5-e885-46bb-bda9-8e44f98763a3)** — ¤171,000 – ¤195,000 USD _(posted 2025-04-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
@@ -159,6 +158,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
 * **[Senior Software Engineer II](https://job-boards.greenhouse.io/humaninterest/jobs/6822323)** — _n/a_ _(posted 2025-05-09)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jsslip6bkuc18rzjcyoh.webp" width="24" height="24" alt="Instabase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Instabase](https://jobo.world/company/Instabase)
+
+* **[Senior Customer Engineer](https://job-boards.greenhouse.io/instabase/jobs/8037087002)** — _n/a_ _(posted 2025-06-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
@@ -203,7 +206,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[NOC Technician, Public Sector](https://jobs.ashbyhq.com/openai/7214281c-9bda-4e52-93f6-fbb9f8787c25)** — _n/a_ _(posted 2025-04-18)_
 * **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
 * **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
-* **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
 
@@ -221,8 +223,13 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Sr. Infrastructure Engineer](https://job-boards.greenhouse.io/platformscience/jobs/6577992003)** — _n/a_ _(posted 2025-05-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ablwoksvyptzo6ebnwjy.webp" width="24" height="24" alt="PriceSpider logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PriceSpider](https://jobo.world/company/PriceSpider)
+
+* **[DevOps Engineer III](https://job-boards.greenhouse.io/pricespider/jobs/8035406002)** — _n/a_ _(posted 2025-06-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qp1uamkdt7aykfiliomk.webp" width="24" height="24" alt="Qualified.com logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qualified.com](https://jobo.world/company/Qualified-Dotcom)
 
+* **[Engineering Manager, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/492bbaf7-1f1f-4a1c-8595-baef82692743)** — ¤190,000 – ¤210,000 USD _(posted 2025-06-14)_
 * **[Staff Software Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/aca7afc8-ae96-4bf6-bf6c-13024c77cb12)** — ¤230,000 – ¤260,000 USD _(posted 2025-04-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tnxrusf4hvnspgsovgoz.webp" width="24" height="24" alt="Replicated logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicated](https://jobo.world/company/Replicated)
@@ -231,7 +238,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
-* **[Software Engineer, Full-Stack](https://jobs.ashbyhq.com/rescale/7ad7c1e2-44ed-4b7b-ab5c-10395b7cd684)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 * **[Network and Systems Administrator](https://jobs.ashbyhq.com/rescale/9f4d42de-e649-4919-9fea-c32b114ad297)** — ¤80,000 – ¤100,000 USD _(posted 2025-05-07)_
 * **[Cloud &amp; DevOps Engineer](https://job-boards.greenhouse.io/regscale/jobs/4726097007)** — _n/a_ _(posted 2025-05-06)_
 
@@ -311,4 +317,4 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-06-14_
+_Updated automatically — 2025-06-16_
