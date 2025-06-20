@@ -14,10 +14,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Security Engineer, DevSecOps](https://job-boards.greenhouse.io/aerospike/jobs/8018939002)** — _n/a_ _(posted 2025-05-31)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/arqrlkg67jupy2stbahu.webp" width="24" height="24" alt="Altium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altium](https://jobo.world/company/Altium)
-
-* **[ELM DevOps Engineer](https://job-boards.greenhouse.io/altium/jobs/4450533006)** — _n/a_ _(posted 2025-06-05)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
 * **[Engineering Manager, Developer Experience](https://job-boards.greenhouse.io/angi/jobs/8039204002)** — _n/a_ _(posted 2025-06-18)_
@@ -55,6 +51,7 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Senior Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/calendly/jobs/8018727002)** — _n/a_ _(posted 2025-05-31)_
+* **[Staff Full Stack Engineer, Platform Services](https://job-boards.greenhouse.io/calendly/jobs/8013433002)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
@@ -84,7 +81,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Cloud Infrastructure Software Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5498943004)** — _n/a_ _(posted 2025-05-20)_
 * **[Senior Full Stack Engineer - HyperDX](https://job-boards.greenhouse.io/clickhouse/jobs/5534566004)** — _n/a_ _(posted 2025-05-13)_
 * **[Senior Cloud Data Infrastructure Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5534408004)** — ¤133,450 – ¤208,800 USD _(posted 2025-05-08)_
-* **[Senior Cloud Software Engineer - Airgapped](https://job-boards.greenhouse.io/clickhouse/jobs/5450394004)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
 
@@ -111,6 +107,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Cloud Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Cloud-Sales-Engineer--Remote-_R23398)** — _n/a_ _(posted 2025-06-04)_
 * **[Sr. Product Manager II - Linux/Containers/Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Manager-II---Linux-Containers-Kubernetes--Remote-_R22818)** — _n/a_ _(posted 2025-04-04)_
 * **[Sr. DevOps Engineer - LogScale (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-DevOps-Engineer---LogScale--Remote-_R21228)** — _n/a_ _(posted 2025-02-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
+
+* **[Senior Full-Stack Engineer](https://jobs.lever.co/cscgeneration-2/67b9557d-31dd-4739-9580-ebf0691457b7)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
 
@@ -139,6 +139,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[Senior Site Reliability Engineer](https://boards.greenhouse.io/fleetio/jobs/4642000007)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bsmaovurtw5whly25w0f.webp" width="24" height="24" alt="Forethought logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Forethought](https://jobo.world/company/Forethought)
+
+* **[DevOps Engineer](https://job-boards.greenhouse.io/forethought/jobs/5568169004)** — _n/a_ _(posted 2025-06-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cx1jxbij2fiwfn1atfex.webp" width="24" height="24" alt="GitLab logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GitLab](https://jobo.world/company/GitLab)
 
@@ -244,10 +248,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
-
-* **[AWS Dev Ops Engineer](https://job-boards.greenhouse.io/rxsense/jobs/4567766005)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
 
 * **[DevOps Lead ](https://jobs.ashbyhq.com/sardine/7017acff-c1fa-4795-b56c-0dcd336687c5)** — _n/a_ _(posted 2025-04-23)_
@@ -261,10 +261,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Senior DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/18368176-2755-476c-aa5b-880e9c1a6269)** — _n/a_ _(posted 2025-03-12)_
 * **[DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/47e2b427-1cff-4c66-b419-06aaedd2a875)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtluyxvy2bihcc746mgd.webp" width="24" height="24" alt="Shift5 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Shift5](https://jobo.world/company/Shift5)
-
-* **[Platform Engineer](https://boards.greenhouse.io/shift5/jobs/5363484004)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rgho9mftypxci7fsxn2r.webp" width="24" height="24" alt="Sift logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sift](https://jobo.world/company/Sift)
 
@@ -306,9 +302,13 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Engineering Manager, Platform - Cloud Infrastructure](https://job-boards.greenhouse.io/valon/jobs/4557892006)** — _n/a_ _(posted 2025-04-09)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mwkz4xk7tqyotgsepjfp.webp" width="24" height="24" alt="WellSky logo" style="vertical-align:middle"/>&nbsp;&nbsp;[WellSky](https://jobo.world/company/WellSky)
+
+* **[Staff Software Engineer - Site Reliability](https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Remote---US/Staff-Software-Engineer---Site-Reliability_JR3402)** — _n/a_ _(posted 2025-06-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
 * **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 
 ---
-_Updated automatically — 2025-06-19_
+_Updated automatically — 2025-06-20_
