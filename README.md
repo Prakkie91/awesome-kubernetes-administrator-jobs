@@ -22,6 +22,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Software Engineer](https://jobs.lever.co/artera/4d009e60-3a23-48ff-9a53-24b56a140f86)** — _n/a_ _(posted 2025-06-04)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lix4t9xeotpsufw7mosi.webp" width="24" height="24" alt="Astronomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astronomer](https://jobo.world/company/Astronomer)
+
+* **[Cloud Solutions Architect, Infrastructure (Pacific)](https://jobs.ashbyhq.com/astronomer/4e5dac18-c6a8-46f4-94ad-d7fd9dbcb97b)** — _n/a_ _(posted 2025-06-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3cyuf7vmyhd1je7c0cy.webp" width="24" height="24" alt="Aura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aura](https://jobo.world/company/Aura)
 
 * **[DevOps Lead Architect](https://apply.workable.com/auria/j/EAB447C41F/)** — ¤145,000 – ¤170,000 USD _(posted 2025-04-24)_
@@ -42,7 +46,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Senior Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/calendly/jobs/8018727002)** — _n/a_ _(posted 2025-05-31)_
-* **[Staff Full Stack Engineer, Platform Services](https://job-boards.greenhouse.io/calendly/jobs/8013433002)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
@@ -90,12 +93,9 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/waipgepcsalq2dll3eq1.webp" width="24" height="24" alt="Cohere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohere](https://jobo.world/company/Cohere)
 
+* **[Senior Site Reliability Engineer, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/3343e9fa-2ba5-42c8-a84c-6d949edd9271)** — _n/a_ _(posted 2025-06-27)_
 * **[Infrastructure Software Engineer, Security](https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066)** — _n/a_ _(posted 2025-05-15)_
 * **[Member of Technical Staff, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/df260e46-205e-45ac-9c31-43094ee9c3db)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nn8w1ziebojue21faiqg.webp" width="24" height="24" alt="Collaborative Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collaborative Robotics](https://jobo.world/company/Collaborative-Robotics)
-
-* **[Deployment Engineer](https://boards.greenhouse.io/collaborativerobotics/jobs/4711710007)** — _n/a_ _(posted 2025-04-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
@@ -108,10 +108,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
 * **[Cloud Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Cloud-Sales-Engineer--Remote-_R23398)** — _n/a_ _(posted 2025-06-04)_
 * **[Sr. Product Manager II - Linux/Containers/Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Manager-II---Linux-Containers-Kubernetes--Remote-_R22818)** — _n/a_ _(posted 2025-04-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
-
-* **[Senior Full-Stack Engineer](https://jobs.lever.co/cscgeneration-2/67b9557d-31dd-4739-9580-ebf0691457b7)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
 
@@ -198,10 +194,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Senior Core Infrastructure Engineer - Platforms Orchestration](https://jobs.ashbyhq.com/kraken.com/fe0eb89e-c2ff-4f75-b570-d6173b65d563)** — ¤100,000 – ¤203,000 USD _(posted 2025-06-04)_
 * **[Senior Node Operations Engineer - Payments & Blockchain](https://jobs.ashbyhq.com/kraken.com/a7766d05-75a9-44f0-b91e-adf1088ae0b7)** — ¤127,000 – ¤203,000 USD _(posted 2025-05-22)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
-
-* **[Senior Software Engineer - Scala, Data Engineering](https://job-boards.greenhouse.io/kunai/jobs/4742766007)** — _n/a_ _(posted 2025-05-23)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
 * **[Software Engineer, AI Platform (Senior, Staff+) ](https://jobs.ashbyhq.com/kustomer/5f7b0f3f-6a08-4f0e-8b8f-6c63914fd8bf)** — _n/a_ _(posted 2025-06-21)_
@@ -233,6 +225,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Sr. Infrastructure Engineer](https://job-boards.greenhouse.io/platformscience/jobs/6577992003)** — _n/a_ _(posted 2025-05-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
+
+* **[Principal Engineer- Data Platform &amp; AI (USA)](https://jobs.lever.co/pointclickcare/4b60f007-6f59-4c6b-a2c8-83aabc283d6b)** — _n/a_ _(posted 2025-06-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ablwoksvyptzo6ebnwjy.webp" width="24" height="24" alt="PriceSpider logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PriceSpider](https://jobo.world/company/PriceSpider)
 
 * **[DevOps Engineer III](https://job-boards.greenhouse.io/pricespider/jobs/8035406002)** — _n/a_ _(posted 2025-06-14)_
@@ -241,6 +237,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Engineering Manager, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/492bbaf7-1f1f-4a1c-8595-baef82692743)** — ¤190,000 – ¤210,000 USD _(posted 2025-06-14)_
 * **[Staff Software Engineer, Platform & Infrastructure](https://jobs.ashbyhq.com/qualified/aca7afc8-ae96-4bf6-bf6c-13024c77cb12)** — ¤230,000 – ¤260,000 USD _(posted 2025-04-18)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/adkfhiop5u2vlaw1xufg.webp" width="24" height="24" alt="Qventus logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Qventus](https://jobo.world/company/Qventus)
+
+* **[DevOps Manager](https://jobs.ashbyhq.com/qventus/f3d72679-53c9-46c4-a12a-004cf60daed0)** — _n/a_ _(posted 2025-06-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tnxrusf4hvnspgsovgoz.webp" width="24" height="24" alt="Replicated logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicated](https://jobo.world/company/Replicated)
 
@@ -314,4 +314,4 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Sr. Staff Site Reliability Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4739118007)** — _n/a_ _(posted 2025-06-13)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
