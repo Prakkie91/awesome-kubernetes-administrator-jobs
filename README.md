@@ -46,6 +46,7 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
 * **[Senior Engineering Manager, Infrastructure](https://job-boards.greenhouse.io/calendly/jobs/8018727002)** — _n/a_ _(posted 2025-05-31)_
+* **[Staff Full Stack Engineer, Platform Services](https://job-boards.greenhouse.io/calendly/jobs/8013433002)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
@@ -98,6 +99,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Infrastructure Software Engineer, Security](https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066)** — _n/a_ _(posted 2025-05-15)_
 * **[Member of Technical Staff, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/df260e46-205e-45ac-9c31-43094ee9c3db)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nn8w1ziebojue21faiqg.webp" width="24" height="24" alt="Collaborative Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Collaborative Robotics](https://jobo.world/company/Collaborative-Robotics)
+
+* **[Deployment Engineer](https://boards.greenhouse.io/collaborativerobotics/jobs/4711710007)** — _n/a_ _(posted 2025-04-18)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Manager, Software Engineering, Cribl Lake](https://job-boards.greenhouse.io/cribl/jobs/5560176004)** — _n/a_ _(posted 2025-06-07)_
@@ -106,9 +111,7 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
-* **[Cloud Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-MA/Cloud-Sales-Engineer--Remote-_R23677)** — _n/a_ _(posted 2025-06-30)_
 * **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
-* **[Cloud Sales Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Cloud-Sales-Engineer--Remote-_R23398)** — _n/a_ _(posted 2025-06-04)_
 * **[Sr. Product Manager II - Linux/Containers/Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Manager-II---Linux-Containers-Kubernetes--Remote-_R22818)** — _n/a_ _(posted 2025-04-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
@@ -194,6 +197,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Senior Core Infrastructure Engineer - Platforms Orchestration](https://jobs.ashbyhq.com/kraken.com/fe0eb89e-c2ff-4f75-b570-d6173b65d563)** — ¤100,000 – ¤203,000 USD _(posted 2025-06-04)_
 * **[Senior Node Operations Engineer - Payments & Blockchain](https://jobs.ashbyhq.com/kraken.com/a7766d05-75a9-44f0-b91e-adf1088ae0b7)** — ¤127,000 – ¤203,000 USD _(posted 2025-05-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
+
+* **[Senior Software Engineer - Scala, Data Engineering](https://job-boards.greenhouse.io/kunai/jobs/4742766007)** — _n/a_ _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/c1quzk9ztnguozq9gkd5.webp" width="24" height="24" alt="Kustomer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kustomer](https://jobo.world/company/Kustomer)
 
@@ -286,10 +293,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Software Engineer - Infrastructure](https://boards.greenhouse.io/superblocks/jobs/4024364005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w4ks1qx6ryiurq7yzq6z.webp" width="24" height="24" alt="Swish Analytics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Swish Analytics](https://jobo.world/company/SwishAnalytics)
-
-* **[AWS Cloud Security Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4557769005)** — ¤110,000 – ¤145,000 USD _(posted 2025-04-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cbqseb7qanoppr64ffdp.webp" width="24" height="24" alt="Tailscale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tailscale](https://jobo.world/company/Tailscale)
 
 * **[Engineering Manager](https://job-boards.greenhouse.io/tailscale/jobs/4577738005)** — _n/a_ _(posted 2025-06-21)_
@@ -311,4 +314,4 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Staff Software Engineer - Site Reliability](https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Remote---US/Staff-Software-Engineer---Site-Reliability_JR3402)** — _n/a_ _(posted 2025-06-18)_
 
 ---
-_Updated automatically — 2025-07-02_
+_Updated automatically — 2025-07-03_
