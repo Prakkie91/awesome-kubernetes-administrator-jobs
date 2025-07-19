@@ -60,6 +60,7 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
+* **[Staff Platform Engineer](https://jobs.ashbyhq.com/bestow/5ae20af8-d6b6-4a90-bc29-230692891b8f)** — ¤190,000 – ¤220,000 USD _(posted 2025-07-18)_
 * **[Staff Backend Engineer (Python)](https://jobs.ashbyhq.com/bestow/de327351-e72b-4241-8138-a76191eb140a)** — ¤180,000 – ¤225,000 USD _(posted 2025-05-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
@@ -103,7 +104,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[IAM Operations Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/IAM-Operations-Engineer--Remote-_R23678)** — _n/a_ _(posted 2025-06-30)_
 * **[Sr. Google Workspace & Collaboration Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Google-Workspace---Collaboration-Engineer--Remote-_R23598)** — _n/a_ _(posted 2025-06-23)_
-* **[Sr. Identity and Access Management (IAM) Engineer, Enterprise Identity Transformation (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Identity-and-Access-Management--IAM--Engineer--Enterprise-Identity-Transformation--Remote-_R23597)** — _n/a_ _(posted 2025-06-23)_
 * **[Sr. Product Manager II - Linux/Containers/Kubernetes (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Product-Manager-II---Linux-Containers-Kubernetes--Remote-_R22818)** — _n/a_ _(posted 2025-04-04)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
@@ -213,6 +213,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Apply here to join Nutrafol&#x27;s Talent Community!](https://job-boards.greenhouse.io/nutrafol/jobs/4385354005)** — _n/a_ _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Old Republic International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Old Republic International](https://jobo.world/company/Old-Republic-International)
+
+* **[Title Insurance Workflow Administrator](https://oldrepublic.wd1.myworkdayjobs.com/thefund/job/FL-Remote/ResWare-Workflow-Process-Administrator_R-3349)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wxdvxnvmgfynvcvm4zpo.webp" width="24" height="24" alt="Omada Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Omada Health](https://jobo.world/company/Omada-Health)
 
 * **[Software Engineer II](https://job-boards.greenhouse.io/omadahealth/jobs/6913167)** — _n/a_ _(posted 2025-05-28)_
@@ -272,10 +276,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Senior Software Engineer,  Vendor Experience (remote)](https://jobs.ashbyhq.com/replicated/1ac69d40-a4e9-4a0d-b7f0-5755b5e6f5f0)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior Software Engineer, Replicated Installers (remote)](https://jobs.ashbyhq.com/replicated/273b3cbb-14d1-4aac-a82b-77ea23563caf)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
-
-* **[Technical Solutions Engineer](https://boards.greenhouse.io/regscale/jobs/4710909007)** — _n/a_ _(posted 2025-04-17)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
@@ -292,9 +292,9 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[DevOps Engineer](https://jobs.ashbyhq.com/sgnlai/47e2b427-1cff-4c66-b419-06aaedd2a875)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x3idbiqxdupfbfe14agf.webp" width="24" height="24" alt="Smarsh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Smarsh](https://jobo.world/company/Smarsh)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
 
-* **[IT Microsoft Systems Engineer](https://jobs.lever.co/smarsh/3f37a279-0994-4143-9942-7724dd3dd082)** — _n/a_ _(posted 2025-06-30)_
+* **[ML Engineer](https://job-boards.greenhouse.io/smartasset/jobs/8059030002)** — _n/a_ _(posted 2025-07-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zudb6wgj2v9zfl4bikwt.webp" width="24" height="24" alt="Standard Metrics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Metrics](https://jobo.world/company/Standard-Metrics)
 
@@ -320,6 +320,7 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygqzgbwrwuvbsepmqef7.webp" width="24" height="24" alt="Vantage  logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vantage ](https://jobo.world/company/Vantage)
 
+* **[Staff Site Reliability Engineer](https://jobs.ashbyhq.com/vantage/86d3fd8d-bce0-4fe0-a777-42e24bbd5a20)** — ¤180,000 – ¤220,000 USD _(posted 2025-07-18)_
 * **[Sales Engineer](https://jobs.ashbyhq.com/vantage/2c25578f-b873-4a01-85c1-65597812296a)** — ¤200,000 – ¤250,000 USD _(posted 2025-06-25)_
 * **[Senior Site Reliability Engineer](https://jobs.ashbyhq.com/vantage/4207f99d-a6dd-458a-8fdd-79599b76eb42)** — ¤180,000 – ¤220,000 USD _(posted 2025-06-25)_
 
@@ -335,13 +336,9 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Systems Administrator](https://jobs.lever.co/versapay/9932443b-d69d-4ef4-a105-d446b3e8d1ca)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hik6mqzeqvbw1enothme.webp" width="24" height="24" alt="Virta Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virta Health](https://jobo.world/company/Virta-Health)
-
-* **[IT Administrator](https://jobs.ashbyhq.com/virtahealth/ea152829-904f-4f01-acef-169a0cb9d981)** — ¤74,100 – ¤85,200 USD _(posted 2025-05-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gfujrrwvqpdfryjn0v15.webp" width="24" height="24" alt="Weedmaps logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Weedmaps](https://jobo.world/company/Weedmaps)
 
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
