@@ -130,10 +130,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Engineer (Back-End)](https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
-
-* **[Senior Security Engineer](https://job-boards.greenhouse.io/energyhub/jobs/7990170002)** — _n/a_ _(posted 2025-05-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rtaztcedlstvqbkphlsf.webp" width="24" height="24" alt="ERG logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ERG](https://jobo.world/company/ERG)
 
 * **[Contracts Administrator](https://jobs.lever.co/erg/71aa91a1-1e3a-4597-8c59-f186b3366afd)** — ¤85,000 – ¤110,000 USD _(posted 2025-04-29)_
@@ -276,6 +272,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Senior Software Engineer,  Vendor Experience (remote)](https://jobs.ashbyhq.com/replicated/1ac69d40-a4e9-4a0d-b7f0-5755b5e6f5f0)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior Software Engineer, Replicated Installers (remote)](https://jobs.ashbyhq.com/replicated/273b3cbb-14d1-4aac-a82b-77ea23563caf)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tj4mug1agf28wwi1479z.webp" width="24" height="24" alt="Rockbot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rockbot](https://jobo.world/company/Rockbot)
+
+* **[NetSuite Administrator](https://job-boards.greenhouse.io/rockbot/jobs/5593387004)** — _n/a_ _(posted 2025-07-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
 
 * **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
@@ -341,4 +341,4 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
