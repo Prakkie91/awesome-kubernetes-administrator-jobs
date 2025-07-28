@@ -89,10 +89,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[Member of Technical Staff, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/df260e46-205e-45ac-9c31-43094ee9c3db)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
-
-* **[Site Reliability Engineer - FedRAMP](https://jobs.ashbyhq.com/confluent/df564429-765d-4536-8ba8-a91766d722ec)** — ¤160,100 – ¤188,100 USD _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Software Engineer III, Infrastructure Engineering (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-III--Infrastructure-Engineering--Remote-_R23762)** — _n/a_ _(posted 2025-07-22)_
@@ -222,6 +218,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 * **[IT Adminstrator](https://jobs.lever.co/ondofinance/88d39cff-9853-44a4-9958-d8d266fe89db)** — _n/a_ _(posted 2025-05-23)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ivphavgil7ptqgv0jw3w.webp" width="24" height="24" alt="Openly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Openly](https://jobo.world/company/Openly)
+
+* **[Senior Site Reliability Engineer (Remote, US)](https://job-boards.greenhouse.io/openly/jobs/4585497005)** — _n/a_ _(posted 2025-07-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
 
 * **[Join Our Talent Community](https://job-boards.greenhouse.io/patientpoint/jobs/4243761005)** — _n/a_ _(posted 2025-03-30)_
@@ -341,4 +341,4 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
