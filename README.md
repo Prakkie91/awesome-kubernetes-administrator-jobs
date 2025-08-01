@@ -31,7 +31,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Senior Software Engineer, Backend (CI/CD)](https://job-boards.greenhouse.io/affirm/jobs/6648372003)** — _n/a_ _(posted 2025-07-29)_
 * **[Software Engineer II, Backend (Loan Originations &amp; Reporting)](https://job-boards.greenhouse.io/affirm/jobs/6652518003)** — _n/a_ _(posted 2025-07-24)_
 * **[Staff Software Engineer, Backend (Code to Environments)](https://job-boards.greenhouse.io/affirm/jobs/6644732003)** — _n/a_ _(posted 2025-07-23)_
-* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
 * **[Software Engineer II](https://job-boards.greenhouse.io/affirm/jobs/6555054003)** — _n/a_ _(posted 2025-05-02)_
 * **[Software Engineer II, Backend (ML Platform)](https://job-boards.greenhouse.io/affirm/jobs/6482668003)** — _n/a_ _(posted 2025-05-01)_
 
@@ -53,6 +52,7 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
+* **[Software Engineer - Internal Platform](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-27)_
 * **[Infrastructure Software Engineer](https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
@@ -158,7 +158,6 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gohkbudztext6mmluwuc.webp" width="24" height="24" alt="Hive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hive](https://jobo.world/company/HiveAI)
 
 * **[DevOps Engineer](https://jobs.ashbyhq.com/hiive/79e38879-4978-4c9f-ad66-d2b5146c9bf6)** — ¤135,000 – ¤160,000 CAD _(posted 2025-05-10)_
-* **[Senior Support Engineer - North America](https://job-boards.greenhouse.io/hivemq/jobs/4008717101)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
@@ -183,6 +182,10 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqkoo9bpphunfsb4j3bk.webp" width="24" height="24" alt="Makpar logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Makpar](https://jobo.world/company/Makpar)
 
 * **[Threat Simulation Environment Administrator](https://jobs.lever.co/makpar/13f91c75-51a3-4388-ab82-f33962525e1e)** — _n/a_ _(posted 2025-06-03)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
+
+* **[Enterprise Applications Engineer (Finance, ERP, Procurement)](https://job-boards.greenhouse.io/marqeta/jobs/7122789)** — _n/a_ _(posted 2025-07-31)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
@@ -341,4 +344,4 @@ Browse a wide range of remote Kubernetes Administrator positions available globa
 * **[Interested in future Tech positions? (Engineering, IT, Data, Product, Design)](https://boards.greenhouse.io/weedmaps77/jobs/6331266002)** — _n/a_ _(posted 2025-03-14)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
